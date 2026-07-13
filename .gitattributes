@@ -1,0 +1,4 @@
+*.md text eol=lf
+*.docx binary
+*.xlsx binary
+
